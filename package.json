@@ -1,0 +1,25 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brockers/testproject.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Bobby Rockers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockers/testproject/issues"
+  },
+  "homepage": "https://github.com/brockers/testproject#readme",
+  "devDependencies": {
+    "protractor": "^2.2.0"
+  }
+}
